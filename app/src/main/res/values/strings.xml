@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="supported_devices"><u>Supported devices</u></string>
+    <string name="united_states">United States</string>
+    <string name="esim">eSim</string>
+    <string name="virtual_numbers">Virtual Numbers</string>
+    <string name="check_our_region_esim_package">Check our region esim package</string>
+    <string name="title_coverage"><![CDATA[Сoverage & Carrier network\nfor United States]]></string>
+    <string name="carrier_name">Carrier name</string>
+    <string name="network">Network</string>
+    <string name="supported_title">Supported devices</string>
+    <string name="supported_description">There are 59 devices that support eSIM.\nWe are updating this list.</string>
+    <string name="apple_iphone">Apple iPhone</string>
+    <string name="apple">APPLE</string>
+    <string name="at_amp_t"><![CDATA[AT&T]]></string>
+    <string name="network_types">2G, 3G, 4G/LTE, 5G</string>
+    <string name="monthly_renew">Monthly renew</string>
+    <string name="buy_now">Buy now</string>
+    <string name="tourist">Tourist</string>
+    <string name="tourist_description">Stay connected everywhere</string>
+    <string name="one_time">One time</string>
+    <string name="monthly">Monthly</string>
+    <string name="low_data_usage">Low data usage</string>
+    <string name="plan_recommendation">* Recommended for devices that using low data</string>
+    <string name="european_union">European Union</string>
+    <string name="n_countries">%s countries</string>
+</resources>
